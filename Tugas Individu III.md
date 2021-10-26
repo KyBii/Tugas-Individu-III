@@ -1,4 +1,4 @@
-# Tugas-Individu-III
+# Tugas Individu III
 
 ## 1. Sejarah Hello World
 Program hello world ditulis pertama kali oleh **Brian Kernighan** pada tahun 1972, Ketika itu, beliau menulis dokumentasi untuk bahasa pemrograman 
